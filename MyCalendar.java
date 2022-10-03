@@ -1,8 +1,4 @@
-/**
-* 2022 CS151 Programming Assignment 1 Solution
-* @author Rachel Liao
-* @version 1.0 09/05/2022
-*/
+
 package calendar;
 
 import java.io.BufferedReader;
